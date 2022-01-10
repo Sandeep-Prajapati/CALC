@@ -1,0 +1,4 @@
+version: v1
+name: buf.build/sandeepkp/calc
+deps:
+  - buf.build/googleapis/googleapis
