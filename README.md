@@ -1,9 +1,8 @@
 # CALC
 This is sample calc Project.
 
-Usage:
-------
-
+## Usage:
+```
 Start the server
 
 CALC> go run .\server.go
@@ -81,3 +80,4 @@ $ curl -X POST -k http://localhost:8090/v1/calc/div -d '{"a": 10, "b": 20}'
 
 $ curl -X POST -k http://localhost:8090/v1/calc/div -d '{"a": 100, "b": 20}'
 {"result":"5"}
+```
