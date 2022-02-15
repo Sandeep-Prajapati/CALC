@@ -1,5 +1,10 @@
 # CALC
 This is sample calc Project.
+It Access the gRPC server (written in Go) in 4 different ways
+1. Using go client
+2. in go test
+3. python client
+4. API
 
 ## Usage:
 ```
